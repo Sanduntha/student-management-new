@@ -1,0 +1,17 @@
+#fill {
+    display: none;
+    position: fixed;
+    left: 600px;
+
+
+}
+
+#display {
+    display: none;
+}
+
+.close {
+    position: relative;
+    left: 160px;
+    bottom: 5px;
+}
